@@ -1,0 +1,16 @@
+
+.center_header {
+    padding: 20px 20px;
+    width: 1366px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #410000;
+}
+
+.container_card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

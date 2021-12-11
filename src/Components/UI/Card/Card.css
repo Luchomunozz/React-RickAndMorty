@@ -1,0 +1,32 @@
+.card {
+    width: 300px;
+    background: #f7f7f7;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 20px;
+    border-style: solid;
+    border-color: #188f00;
+    
+}
+
+.image_card {
+    width: 100%;
+    position: relative;
+}
+
+
+
+.info_card {
+    padding: 20px;
+    background: #188f00;
+    color: #FFFF;
+    font-size: 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info_card p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
